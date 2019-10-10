@@ -1,0 +1,7 @@
+{
+    "DEBUG": false,
+    "TIMER": {
+        "news": 30000
+    },
+    "RUNTIME_NAME": "Python37"
+}

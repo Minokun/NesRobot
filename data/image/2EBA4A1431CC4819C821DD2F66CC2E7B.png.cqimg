@@ -1,0 +1,9 @@
+[image]
+md5=2EBA4A1431CC4819C821DD2F66CC2E7B
+width=590
+height=186
+size=3069
+url=https://c2cpicdw.qpic.cn/offpic_new/952718180//c1e88201-34db-4a35-adc0-f67af832b590/0?vuin=579332&term=2
+addtime=1560332818
+[notice]
+致开发者=由于消息服务器的更新，本文件中的 url 已被弃用，并将在未来被移除，请勿直接读取本文件。请更新至最新版 SDK，并使用 Api（CQ_getImage, 接收图片）读取本图片。
